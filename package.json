@@ -1,0 +1,18 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "interacting with Spotify API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emilio Ovalles-Misterman",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}

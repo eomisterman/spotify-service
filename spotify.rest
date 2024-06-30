@@ -1,0 +1,4 @@
+### Need to replace token with valid access token before sending
+###
+GET http://localhost:3001/me
+Authorization: BQASSrG9zWD1GIBqQV6HuzV9Dj0DFNcee2chFKnDQ0T3accW8yQ0UoC10yfeeUbt9zRfEg9NqfRU_mKqs-B8S49M29jiBzAxuPQBptHsci_gsgK0MqUHo_g90WVLDLw1C-wY-QSmgroLBEGREuqfsktUH--SviJTfSNicwbroyYUaMPkwoPucUhvR3qBV3Zql-4NTRrF8blaxHFJWUXoLBpQrw
